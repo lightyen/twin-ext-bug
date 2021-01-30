@@ -1,5 +1,7 @@
 # twin-ext-bug
 
+`/home/oskar/dev/` is a symlink to another device.
+
 ```
 tailwindcss version: 2.0.2
 postcss version: 8.2.4
